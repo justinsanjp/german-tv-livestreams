@@ -36,14 +36,14 @@
     "user_agent": null
   },
   {
-    "channel": "kabel eins",
-    "url": "https://kabeleins-live.streamon-cloud.net/kabeleins/live/playlist.m3u8",
+    "channel": "Kabeleins",
+    "url": "https://download.avm.de/tv/1/m3u/kabel1_doku.m3u",
     "http_referrer": null,
     "user_agent": null
   },
   {
-    "channel": "kabel eins Doku",
-    "url": "https://kabeleinsdoku-live.streamon-cloud.net/kabeleinsdoku/live/playlist.m3u8",
+    "channel": "Kabeleins Doku",
+    "url": "https://download.avm.de/tv/1/m3u/kabel1_doku.m3u",
     "http_referrer": null,
     "user_agent": null
   },
