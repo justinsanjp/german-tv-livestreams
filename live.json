@@ -1,0 +1,86 @@
+[
+  {
+    "channel": "ARD",
+    "url": "https://mcdn.daserste.de/daserste/de/master.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ZDF",
+    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTL",
+    "url": "https://rtl-live.streamon-cloud.net/rtl/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Sat.1",
+    "url": "https://sat1-live.streamon-cloud.net/sat1/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "ProSieben",
+    "url": "https://prosieben-live.streamon-cloud.net/prosieben/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "VOX",
+    "url": "https://vox-live.streamon-cloud.net/vox/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "kabel eins",
+    "url": "https://kabeleins-live.streamon-cloud.net/kabeleins/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "kabel eins Doku",
+    "url": "https://kabeleinsdoku-live.streamon-cloud.net/kabeleinsdoku/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "N24",
+    "url": "https://n24-live.streamon-cloud.net/n24/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "3sat",
+    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/3sat/high/master.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "WDR",
+    "url": "https://wdrfsgeo-lh.akamaihd.net/i/wdrfs_geo@530054/master.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "RTL II",
+    "url": "https://rtl2-live.streamon-cloud.net/rtl2/live/playlist.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Phoenix",
+    "url": "https://zdf-hls-16.akamaized.net/hls/live/2016499/phoenix/high/master.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  },
+  {
+    "channel": "Arte",
+    "url": "https://arteptweb-direct.akamaized.net/am/ptweb/live/direct-1000.m3u8",
+    "http_referrer": null,
+    "user_agent": null
+  }
+]
